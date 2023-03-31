@@ -1,0 +1,22 @@
+.bg-theme-blue {
+    background: #06a9f2;
+    color: white;
+}
+
+.link a {
+    margin: 10px;
+    text-decoration: underline;
+    color: white;
+    padding-right: 10px;
+}
+
+.social-link a {
+    margin: 10px;
+    font-size: 18px;
+    color: white;
+}
+
+.navbar-nav .nav-link.active {
+    color: #06a9f2;
+}
+

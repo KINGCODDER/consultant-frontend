@@ -1,0 +1,21 @@
+.card {
+    text-align: center;
+    position: relative;
+    padding: 19px;
+    cursor: pointer;
+}
+
+.card .card-image {
+    position: absolute;
+    width: 20%;
+    background: white;
+    top: -33%;
+    left: 40%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 4px 0px #01aff87a;
+}
+
+.card:hover {
+
+    outline: 2px solid #01AFF8 !important;
+}
